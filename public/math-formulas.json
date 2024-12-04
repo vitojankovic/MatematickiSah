@@ -1,59 +1,186 @@
 {
   "1": [
     {
-      "question": "2 + 2 = ?",
+      "question": "Izračunaj: 2^5 × 3^2",
+      "answer": "288"
+    },
+    {
+      "question": "Izračunaj: (5^2 - 4^2) ÷ 3",
+      "answer": "3"
+    },
+    {
+      "question": "Izračunaj: (3^3 × 4^2) ÷ 6",
+      "answer": "72"
+    },
+    {
+      "question": "Ako je x = -2, odredi x^2 - |x| + √16",
+      "answer": "6"
+    },
+    {
+      "question": "Nađi uniju skupova A = {1, 2, 3} i B = {2, 4, 6}",
+      "answer": "{1, 2, 3, 4, 6}"
+    },
+    {
+      "question": "Izračunaj 25% od 240",
+      "answer": "60"
+    },
+    {
+      "question": "U omjeru 3:5, koliko je od ukupno 40 raspodijeljeno na prvu vrijednost?",
+      "answer": "15"
+    },
+    {
+      "question": "Izračunaj: |-7| + |-3| - |5|",
+      "answer": "5"
+    },
+    {
+      "question": "Ako je |x - 2| = 6, koliko je x?",
+      "answer": "x = 8 ili x = -4"
+    },
+    {
+      "question": "Sredi izraz: (2x + 4) ÷ 2 kada je x = 3",
+      "answer": "5"
+    },
+    {
+      "question": "Ako je x ∈ (-2, 3), je li x^2 - 4 uvijek negativan?",
+      "answer": "Nije."
+    },
+    {
+      "question": "Izračunaj: (2^4 ÷ 2^2) × 3^0",
       "answer": "4"
     },
     {
-      "question": "5 - 3 = ?",
+      "question": "Ako je skup A = {2, 3, 4} i B = {4, 5, 6}, nađi presjek skupova.",
+      "answer": "{4}"
+    },
+    {
+      "question": "Koliki je postotak od 200 ako je broj 50?",
+      "answer": "25%"
+    },
+    {
+      "question": "Ako je x = -3, izračunaj |x + 5|.",
       "answer": "2"
     },
     {
-      "question": "3 × 1 = ?",
-      "answer": "3"
+      "question": "Izračunaj: (x^2 - 4) ÷ (x - 2) kada je x = 3",
+      "answer": "5"
     }
   ],
   "2": [
     {
-      "question": "10 + 5 = ?",
-      "answer": "15"
+      "question": "Izračunaj: √81 + √16 - √25",
+      "answer": "8"
     },
     {
-      "question": "8 - 4 = ?",
-      "answer": "4"
+      "question": "Ako je x = √20, izračunaj x^2 - 10",
+      "answer": "10"
     },
     {
-      "question": "3 × 4 = ?",
-      "answer": "12"
+      "question": "Nađi vrh parabole y = x^2 - 4x + 3",
+      "answer": "(2, -1)"
+    },
+    {
+      "question": "Izračunaj: sin(30°) + cos(60°)",
+      "answer": "1"
+    },
+    {
+      "question": "Ako je z = 2 + 3i, izračunaj |z|^2",
+      "answer": "13"
+    },
+    {
+      "question": "Izračunaj: cos^2(45°) + sin^2(45°)",
+      "answer": "1"
+    },
+    {
+      "question": "Ako je funkcija f(x) = x^2 - 2x, izračunaj f(3)",
+      "answer": "3"
+    },
+    {
+      "question": "Izračunaj: √(25 + 36)",
+      "answer": "7"
+    },
+    {
+      "question": "Nađi minimum funkcije y = x^2 - 6x + 9",
+      "answer": "(3, 0)"
+    },
+    {
+      "question": "Ako je x = 2, izračunaj: 3√x + 2^3",
+      "answer": "14"
     }
   ],
   "3": [
     {
-      "question": "15 + 7 = ?",
-      "answer": "22"
-    },
-    {
-      "question": "20 - 8 = ?",
+      "question": "Izračunaj: 3^(log₃9) + log₂8",
       "answer": "12"
     },
     {
-      "question": "5 × 6 = ?",
-      "answer": "30"
+      "question": "Ako je tan(x) = 1 i x ∈ (0°, 90°), izračunaj sin(x)",
+      "answer": "√2/2"
+    },
+    {
+      "question": "Izračunaj: log₃(27) × log₂(4)",
+      "answer": "6"
+    },
+    {
+      "question": "Ako je vektor a = (2, 3), izračunaj |a|",
+      "answer": "√13"
+    },
+    {
+      "question": "Nađi pravac kroz točke (1, 2) i (3, 4)",
+      "answer": "y = x + 1"
+    },
+    {
+      "question": "Izračunaj: cos(60°) + sin(30°)",
+      "answer": "1"
+    },
+    {
+      "question": "Ako je sin(x) = 1/2, koliki je x ∈ (0°, 90°)?",
+      "answer": "30°"
+    },
+    {
+      "question": "Izračunaj: log₁₀(100) ÷ log₁₀(10)",
+      "answer": "2"
+    },
+    {
+      "question": "Ako je vektor a = (3, 4) i b = (1, -2), izračunaj skalarni produkt a·b",
+      "answer": "-5"
     }
   ],
   "4": [
     {
-      "question": "25 + 18 = ?",
-      "answer": "43"
+      "question": "Ako je z = -3 + 4i, izračunaj |z|",
+      "answer": "5"
     },
     {
-      "question": "40 - 15 = ?",
-      "answer": "25"
+      "question": "Izračunaj Sn za aritmetički niz gdje je a₁ = 5, an = 25, n = 5",
+      "answer": "75"
     },
     {
-      "question": "7 × 8 = ?",
-      "answer": "56"
+      "question": "Nađi lim(x → ∞) (3x² + 2) ÷ (5x² + 1)",
+      "answer": "3/5"
+    },
+    {
+      "question": "Ako je niz definiran sa a₁ = 2, aₙ₊₁ = aₙ + 3, nađi a₅",
+      "answer": "14"
+    },
+    {
+      "question": "Izračunaj: lim(x → 0) (sin(x) ÷ x)",
+      "answer": "1"
+    },
+    {
+      "question": "Ako je f(x) = x^2 + 3x + 2, nađi nule funkcije",
+      "answer": "x₁ = -1, x₂ = -2"
+    },
+    {
+      "question": "Izračunaj: (1 + i)^2",
+      "answer": "2i"
+    },
+    {
+      "question": "Izračunaj vektor duljine ako je a = (-2, 5)",
+      "answer": "√29"
+    },
+    {
+      "question": "Ako je niz definiran sa a₁ = 3, aₙ₊₁ = 2aₙ, izračunaj a₄",
+      "answer": "24"
     }
   ]
 }
-
